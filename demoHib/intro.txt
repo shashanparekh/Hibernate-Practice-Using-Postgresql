@@ -1,0 +1,1 @@
+java framework-Hibernate(ORM tool) project with some basic operations like save,update,create,fetch using POSTGRESQL database and some advanced configurations with some caching techniques with Some HQL and SQL Query methods.
